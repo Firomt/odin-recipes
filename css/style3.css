@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    font-size: 24px;
+}
+h2{
+    color: red;
+    
+
+}
+h3{
+    color: brown;
+}
+ul{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+h4{
+    color: brown;
+}
+ol{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
